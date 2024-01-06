@@ -103,10 +103,10 @@ Mar 21 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://c
 ??? | <span style="color:red">HW 5 out</span>
 Mar 26 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1guVHPlmTJswMiN2XB_KvSBingDuo6bdX?usp=sharing) <br/> Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/14U7RSZcpQevXzjuN9QDqRFGKUPBQk8l2?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/160xpb1L7Ny10t5I6SFIjsfjijw51ai-k?usp=sharing) | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
 Mar 28 <br/> V | Pooling <br/> [notebook](https://colab.research.google.com/drive/1oSHQD8HR7MYKD--8IWPqsxQTNOhTNd6L?usp=sharing) <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook](https://colab.research.google.com/drive/1rHKxVf-UmSFlBNKyIROuv13XQMYyTLcV?usp=sharing) | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
-&nbsp; | **Deep Learning for Time Series** |
-Apr 02 | A temperature-forecasting example <br/> [notebook](https://colab.research.google.com/drive/16neyR5N2oXVU5AWqYU6EIvRMCcL4dCoX?usp=sharing) | DLPy, Sec. 10.2
-Apr 04 <br/> V | A temperature-forecasting example (continued) <br/> [notebook](https://colab.research.google.com/drive/16neyR5N2oXVU5AWqYU6EIvRMCcL4dCoX?usp=sharing) | DLPy, Sec. 10.2
-Apr 09 | Understanding recurrent neural networks <br/> Advanced use of recurrent neural networks <br/> [notebook](https://colab.research.google.com/drive/16neyR5N2oXVU5AWqYU6EIvRMCcL4dCoX?usp=sharing) | DLPy, Sec. 10.3 <br/> DLPy, Sec. 10.4
-Apr 11 | Recurrent Neural Networks <br/> [notebook](https://colab.research.google.com/drive/1isECcLw7lhs27MNx0JP567KTZ3mkEXqf?usp=sharing) |  D2L, Sec. 9.4
+&nbsp; | **Attention & Transformers / Machine Olfaction** |
+Apr 02 | |  
+Apr 04 | |   
+Apr 09 | |  
+Apr 11 | |  
 Apr 16 | |  
 Apr 18 | |  
