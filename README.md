@@ -9,7 +9,7 @@ This is an introductory deep learning course using the Python programming langua
   
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://inst.eecs.berkeley.edu/~cs182), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/578445) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
-- **Slack**: The course slack workspace is at [TBD](TBD) (requires UM login)
+- **Slack**: The course slack workspace is at [um-wn24-stats315.slack.com](um-wn24-stats315.slack.com) (requires UM login)
 - **Days and Times**: Tuesdays and Thursdays, 1-2:30
 - **Location**: [170 WEISER](https://maps.studentlife.umich.edu/building/weiser-hall) (links for virtual lectures, if any, will be saved in the syllabus page on canvas)
 
