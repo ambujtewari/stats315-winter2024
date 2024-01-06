@@ -28,7 +28,7 @@ This is an introductory deep learning course using the Python programming langua
 **Name**: Jacob (Jake) Trauger (Lab NUM DAY TIME in ROOM)   
 **Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
 
-**Name**: Sahana Rayan (Lab NUM DAY TIME in ROOM) 
+**Name**: Sahana Rayan (Lab NUM DAY TIME in ROOM)  
 **Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
 
 
