@@ -21,8 +21,8 @@ This is an introductory deep learning course using the Python programming langua
 
 ## GSI Information
 
-**Name**: Abhriti Mishra (Lab NUM DAY TIME in ROOM)  
-**Email**: [subedi@umich.edu](mailto:subedi@umich.edu)
+**Name**: Abhiti Mishra (Lab NUM DAY TIME in ROOM)  
+**Email**: [abhiti@umich.edu](mailto:abhiti@umich.edu)
 
 **Name**: Jacob (Jake) Trauger (Lab NUM DAY TIME in ROOM)   
 **Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
