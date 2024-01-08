@@ -22,16 +22,14 @@ This is an introductory deep learning course using the Python programming langua
 
 ## GSI Information
 
-**Name**: Abhiti Mishra (Lab NUM DAY TIME in ROOM)  
-**Email**: [abhiti@umich.edu](mailto:abhiti@umich.edu)
-
-**Name**: Jacob (Jake) Trauger (Lab NUM DAY TIME in ROOM)   
-**Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
-
-**Name**: Sahana Rayan (Lab NUM DAY TIME in ROOM)  
+**Name**: Sahana Rayan (Lab 002 Thu 8:30-10:00 in 335 WH)  
 **Email**: [srayan@umich.edu](mailto:srayan@umich.edu)
 
+**Name**: Jacob (Jake) Trauger (Lab 003 Thu 2:30-4:00 in 2234 USB)   
+**Email**: [jtrauger@umich.edu](jtrauger@umich.edu)
 
+**Name**: Abhiti Mishra (Lab 004 Thu 4:00-5:30 in 1084 EH)  
+**Email**: [abhiti@umich.edu](mailto:abhiti@umich.edu)
 
 **Lab webpage** (also has GSI office hours info): link TBA
 
