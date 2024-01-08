@@ -9,7 +9,7 @@ This is an introductory deep learning course using the Python programming langua
   - _Understanding Deep Learning_ by Simon J.D. Prince. It promises to be a more up-to-date version of _Deep Learning_ by Goodfellow et al. and its spiritual successor. I might refer to it from time to time. Print version is available from [MIT Press](https://mitpress.mit.edu/9780262048644/understanding-deep-learning/) and an online version is [here](https://udlbook.github.io/udlbook/).
   
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://inst.eecs.berkeley.edu/~cs182), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)
-- **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/578445) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
+- **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/657959) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
 - **Slack**: The course slack workspace is at [um-wn24-stats315.slack.com](https://um-wn24-stats315.slack.com) (requires UM login)
 - **Days and Times**: Tuesdays and Thursdays, 1-2:30
 - **Location**: [170 WEISER](https://maps.studentlife.umich.edu/building/weiser-hall) (links for virtual lectures, if any, will be saved in the syllabus page on canvas)
