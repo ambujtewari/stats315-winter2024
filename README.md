@@ -65,7 +65,7 @@ _Note_: A "V" in the date column denotes a virtual lecture.
 
 Date   | Topic | Reading Assignment 
 ---    | ---   | ---               
-Jan 11 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1WOGiIZUbvj2UjRX3DXsArzvhjBmNAmvZ/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy What is deep learning?, Chap. 1 <br/> DL Introduction, Chap. 1 <br/> D2L Introduction, Chap. 1
+Jan 11 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1tK0h6NOYlwY_C6noNuVMLXSJFlYBy78z/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | DLPy What is deep learning?, Chap. 1 <br/> DL Introduction, Chap. 1 <br/> D2L Introduction, Chap. 1
 &nbsp; | **Linear Algebra Boot Camp** |
 Jan 16 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
 Jan 18 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
