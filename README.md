@@ -72,20 +72,15 @@ Jan 18 | Linear Algebra (continued) <br/> [notebook](https://colab.research.goog
 Jan 23 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1RweKeSnQgxCuR25FFEOIwGxAkmeiu5sf?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 <br/> D2L Geometry and Linear Algebraic Operations, Sec. 22.1.9
 &nbsp; | **Basics** |
 Jan 25 | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1xtMi5iVCi6BMqItnwv5zM-mUc_R_8BxP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
-??? | <span style="color:red">HW 1 out</span> 
 Jan 30 | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1mRMwgh6AE7nWpuF6mVHgF9q_tPjNx3Ai/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
 Feb 01 <br/> V | Regression wrap-up <br/> [slides](https://docs.google.com/presentation/d/11PrJQaDWIY612EXm6vXAlBDL_kpogSMG/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regression, Sec. 3.1.3-4 
 Feb 06 | Review of last two lectures |
 Feb 08 | Classification <br/> Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://docs.google.com/presentation/d/1LC7rWMKJllHtqSv04T7afmNPfAsETUX6/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Softmax Regression, Sec. 4.1.1 <br/> D2L Loss Function, Sec. 4.1.2
-??? | <span style="color:red">HW 1 due</span> 
-??? | <span style="color:red">HW 2 out</span> 
 Feb 13 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1VwYy7JXIc8xVImGnC0X0puIH8Z81944g/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |  D2L Information Theory Basics, Sec. 4.1.3
 &nbsp; | **TensorFlow/Keras** |
 Feb 15 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
 Feb 20 <br/> V |First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 2.4.4 
 Feb 22 <br/> V | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
-??? | <span style="color:red">HW 2 due</span>
-??? | <span style="color:red">HW 3 out</span> 
 ??? | <span style="color:red">MIDTERM EXAM</span>
 Feb 27 | SPRING BREAK |
 Feb 29 | SPRING BREAK |
@@ -97,8 +92,6 @@ Mar 14 | Generalization <br/> Evaluating ML models <br/> [notebook](https://cola
 Mar 19 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1mzEkrkMU0EOgvKfIvzWd1PSXgrF6BMvx?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
 Mar 21 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1PhQzzdkYNkrjVmegwSQSgh_yGHyAr7xx?usp=sharing) | D2L, Sec. 7.1
-??? | <span style="color:red">HW 4 due</span>
-??? | <span style="color:red">HW 5 out</span>
 Mar 26 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1guVHPlmTJswMiN2XB_KvSBingDuo6bdX?usp=sharing) <br/> Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/14U7RSZcpQevXzjuN9QDqRFGKUPBQk8l2?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/160xpb1L7Ny10t5I6SFIjsfjijw51ai-k?usp=sharing) | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
 Mar 28 <br/> V | Pooling <br/> [notebook](https://colab.research.google.com/drive/1oSHQD8HR7MYKD--8IWPqsxQTNOhTNd6L?usp=sharing) <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook](https://colab.research.google.com/drive/1rHKxVf-UmSFlBNKyIROuv13XQMYyTLcV?usp=sharing) | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
