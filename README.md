@@ -86,7 +86,6 @@ Feb 27 | SPRING BREAK |
 Feb 29 | SPRING BREAK |
 Mar 05 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1vt7UNLxL_3LzkkqQNsQ9AmRYM9XhiJIY?usp=sharing) | DLPy, Sec. 2.1
 Mar 07 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iB5ieKjSdKfX2rkZcJdcBRz2mzc8piSn?usp=sharing) | DLPy, Sec. 4.1
-??? | <span style="color:red">HW 3 due</span> <br/> <span style="color:red">HW 4 out</span> 
 Mar 12 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1iUxQlrR0MlyC7S-6ZJyoeKjWXh9NZrva?usp=sharing) | DLPy, Sec. 4.3
 Mar 14 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1phLaDNsn9trR6mxJnhfj_KyDx6p39GC3?usp=sharing) | DLPy, Sec. 5.1-2
 Mar 19 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1mzEkrkMU0EOgvKfIvzWd1PSXgrF6BMvx?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
