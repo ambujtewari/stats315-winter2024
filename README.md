@@ -69,7 +69,7 @@ Jan 11 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.
 &nbsp; | **Linear Algebra Boot Camp** |
 Jan 16 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
 Jan 18 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
-Jan 23 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD/usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 <br/> D2L Geometry and Linear Algebraic Operations, Sec. 22.1.9
+Jan 23 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD/usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 
 &nbsp; | **Basics** |
 Jan 25 | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1xtMi5iVCi6BMqItnwv5zM-mUc_R_8BxP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
 Jan 30 | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1mRMwgh6AE7nWpuF6mVHgF9q_tPjNx3Ai/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
