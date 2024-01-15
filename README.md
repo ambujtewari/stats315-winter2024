@@ -67,7 +67,7 @@ Date   | Topic | Reading Assignment
 ---    | ---   | ---               
 Jan 11 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1tK0h6NOYlwY_C6noNuVMLXSJFlYBy78z/edit?usp=sharing) | DLPy What is deep learning?, Chap. 1 <br/> DL Introduction, Chap. 1 <br/> D2L Introduction, Chap. 1
 &nbsp; | **Linear Algebra Boot Camp** |
-Jan 16 | Linear Algebra <br/> [notebook](https://drive.google.com/file/d/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD/view?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
+Jan 16 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD/view?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
 Jan 18 | Linear Algebra (continued) <br/> [notebook](https://drive.google.com/file/d/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD/view?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
 Jan 23 | Linear Algebra (continued) <br/> [notebook](https://drive.google.com/file/d/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD/view?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 <br/> D2L Geometry and Linear Algebraic Operations, Sec. 22.1.9
 &nbsp; | **Basics** |
