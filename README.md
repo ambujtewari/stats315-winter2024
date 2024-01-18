@@ -35,7 +35,7 @@ This is an introductory deep learning course using the Python programming langua
 
 ## Grading
 
-- Canvas quizzes (20%): Will drop two lowest scores
+- Canvas quizzes (20%): Timed, multiple choice, open book. Will drop two lowest scores
 - Homeworks (30%): Assigned roughly every other week. Will drop one lowest score
 - Midterm Exam (20%): In class, timed, multiple choice, open book
 - Final Exam (30%): In class, timed, multiple choice, open book
