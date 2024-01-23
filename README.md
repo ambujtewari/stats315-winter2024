@@ -69,7 +69,7 @@ Jan 11 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.
 &nbsp; | **Linear Algebra Boot Camp** |
 Jan 16 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.1-2
 Jan 18 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
-Jan 23 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 
+Jan 23 <br/> V | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 
 &nbsp; | **Basics** |
 Jan 25 | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1xtMi5iVCi6BMqItnwv5zM-mUc_R_8BxP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
 Jan 30 | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1mRMwgh6AE7nWpuF6mVHgF9q_tPjNx3Ai/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regresion, Sec. 3.1.1
@@ -79,8 +79,8 @@ Feb 08 | Classification <br/> Softmax Operation <br/> Cross Entropy Loss Functio
 Feb 13 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1VwYy7JXIc8xVImGnC0X0puIH8Z81944g/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |  D2L Information Theory Basics, Sec. 4.1.3
 &nbsp; | **TensorFlow/Keras** |
 Feb 15 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
-Feb 20 <br/> V |First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 2.4.4 
-Feb 22 <br/> V | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
+Feb 20 |First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 2.4.4 
+Feb 22 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
 Feb 27 | SPRING BREAK |
 Feb 29 | SPRING BREAK |  
 Mar 05 | MIDTERM EXAM |  
