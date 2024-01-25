@@ -71,7 +71,7 @@ Jan 16 | Linear Algebra <br/> [notebook](https://colab.research.google.com/drive
 Jan 18 | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.3-5 
 Jan 23 <br/> V | Linear Algebra (continued) <br/> [notebook](https://colab.research.google.com/drive/1iUoVjOmG0P-ZZHBdevqb2AvKuXjdOSXD?usp=sharing) | D2L Geometry and Linear Algebraic Operations, Sec. 22.1.6-7 
 &nbsp; | **Basics** |
-Jan 25 | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1xtMi5iVCi6BMqItnwv5zM-mUc_R_8BxP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regression, Sec. 3.1.1
+Jan 25 <br/> V | Basic Elements of Linear Regression <br/> [slides](https://docs.google.com/presentation/d/1xtMi5iVCi6BMqItnwv5zM-mUc_R_8BxP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regression, Sec. 3.1.1
 Jan 30 | Regression <br/> Loss functions and gradient descent <br/> [slides](https://docs.google.com/presentation/d/1mRMwgh6AE7nWpuF6mVHgF9q_tPjNx3Ai/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regression, Sec. 3.1.1
 Feb 01 | Regression wrap-up <br/> [slides](https://docs.google.com/presentation/d/11PrJQaDWIY612EXm6vXAlBDL_kpogSMG/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Linear Regression, Sec. 3.1.3-4 
 Feb 06 | Review of last two lectures |
