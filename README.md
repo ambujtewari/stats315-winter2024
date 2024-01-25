@@ -96,7 +96,7 @@ Apr 02 <br/> V | Pooling <br/> [notebook](https://colab.research.google.com/driv
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | |  
 Apr 09 | |   
-Apr 11 | |  
+Apr 11 | Guest Lecture by Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
 Apr 16 | |  
 Apr 18 | |  
 Apr 23 | FINAL EXAM |  
