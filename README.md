@@ -77,21 +77,21 @@ Feb 06 | Regression wrap-up <br/> [slides](https://docs.google.com/presentation/
 Feb 08 | Classification <br/> Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://docs.google.com/presentation/d/1Oy5GxUB17gHjOv-gXqsnsClwbUWgkpOP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Softmax Regression, Sec. 4.1.1 <br/> D2L Loss Function, Sec. 4.1.2
 Feb 13 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1eOlechaPRaSziUrYjQedpfTYvKzXgaqq/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |  D2L Information Theory Basics, Sec. 4.1.3
 &nbsp; | **TensorFlow/Keras** |
-Feb 15 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
-Feb 20 | First steps with TensorFlow <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 2.4.4 
-Feb 22 | First steps with TensorFlow (continued) <br/> [notebook](https://colab.research.google.com/drive/1xp6EKBn8UIzhE0HF4P6BC3a4CyrwmeOq?usp=sharing) | DLPy, Sec. 3.5.3-4
+Feb 15 | TensorFlow, Keras, Google Colab <br/> [notebook]() | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
+Feb 20 | First steps with TensorFlow <br/> [notebook]() | DLPy, Sec. 2.4.4 
+Feb 22 | First steps with TensorFlow (continued) <br/> [notebook]() | DLPy, Sec. 3.5.3-4
 Feb 27 | SPRING BREAK |
 Feb 29 | SPRING BREAK |  
 Mar 05 | MIDTERM EXAM |  
-Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1vt7UNLxL_3LzkkqQNsQ9AmRYM9XhiJIY?usp=sharing) | DLPy, Sec. 2.1
-Mar 12 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1iB5ieKjSdKfX2rkZcJdcBRz2mzc8piSn?usp=sharing) | DLPy, Sec. 4.1
-Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1iUxQlrR0MlyC7S-6ZJyoeKjWXh9NZrva?usp=sharing) | DLPy, Sec. 4.3
-Mar 19 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1phLaDNsn9trR6mxJnhfj_KyDx6p39GC3?usp=sharing) | DLPy, Sec. 5.1-2
-Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1mzEkrkMU0EOgvKfIvzWd1PSXgrF6BMvx?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
+Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook]() | DLPy, Sec. 2.1
+Mar 12 | Getting started with NNs: Classification IMDB <br/> [notebook]() | DLPy, Sec. 4.1
+Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook]() | DLPy, Sec. 4.3
+Mar 19 | Generalization <br/> Evaluating ML models <br/> [notebook]() | DLPy, Sec. 5.1-2
+Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook]() | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
-Mar 26 |  From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1PhQzzdkYNkrjVmegwSQSgh_yGHyAr7xx?usp=sharing) | D2L, Sec. 7.1
-Mar 28 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1guVHPlmTJswMiN2XB_KvSBingDuo6bdX?usp=sharing) <br/> Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/14U7RSZcpQevXzjuN9QDqRFGKUPBQk8l2?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/160xpb1L7Ny10t5I6SFIjsfjijw51ai-k?usp=sharing) | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
-Apr 02 <br/> V | Pooling <br/> [notebook](https://colab.research.google.com/drive/1oSHQD8HR7MYKD--8IWPqsxQTNOhTNd6L?usp=sharing) <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook](https://colab.research.google.com/drive/1rHKxVf-UmSFlBNKyIROuv13XQMYyTLcV?usp=sharing) | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
+Mar 26 |  From Fully-Connected Layers to Convolutions <br/> [notebook]() | D2L, Sec. 7.1
+Mar 28 | Convolutions for Images <br/> [notebook]() <br/> Padding and Stride <br/> [notebook]() <br/> Multiple Input and Multiple Output Channels <br/> [notebook]() | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
+Apr 02 <br/> V | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook]() | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | |  
 Apr 09 | |   
