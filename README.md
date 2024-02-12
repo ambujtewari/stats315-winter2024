@@ -77,7 +77,7 @@ Feb 06 | Regression wrap-up <br/> [slides](https://docs.google.com/presentation/
 Feb 08 | Classification <br/> Softmax Operation <br/> Cross Entropy Loss Function <br/> [slides](https://docs.google.com/presentation/d/1Oy5GxUB17gHjOv-gXqsnsClwbUWgkpOP/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) | D2L Softmax Regression, Sec. 4.1.1 <br/> D2L Loss Function, Sec. 4.1.2
 Feb 13 | Softmax Derivatives <br/> Information Theory Basics <br/> [slides](https://docs.google.com/presentation/d/1eOlechaPRaSziUrYjQedpfTYvKzXgaqq/edit?usp=sharing&ouid=105036821118529706206&rtpof=true&sd=true) |  D2L Information Theory Basics, Sec. 4.1.3
 &nbsp; | **TensorFlow/Keras** |
-Feb 15 | TensorFlow, Keras, Google Colab <br/> [notebook]() | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
+Feb 15 | TensorFlow, Keras, Google Colab <br/> [notebook](https://colab.research.google.com/drive/15vu6hlDdHFPWnagc6BZyS0PVSYoHqPaL?usp=sharing) | DLPy, Sec. 3.1-4 <br/> DLPy, Sec. 3.5.1-2
 Feb 20 | First steps with TensorFlow <br/> [notebook]() | DLPy, Sec. 2.4.4 
 Feb 22 | First steps with TensorFlow (continued) <br/> [notebook]() | DLPy, Sec. 3.5.3-4
 Feb 27 | SPRING BREAK |
