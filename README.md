@@ -92,7 +92,7 @@ Apr 02 | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Ke
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | |  
 Apr 09 | |   
-Apr 11 | Guest Lecture by Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
+Apr 11 | Guest Lecture by UM alum Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
 Apr 16 | |  
 Apr 18 | |  
 Apr 23 | FINAL EXAM |  
