@@ -88,7 +88,7 @@ Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook]() | 
 &nbsp; | **Convolutional Neural Networks** |
 Mar 26 |  From Fully-Connected Layers to Convolutions <br/> [notebook]() | D2L, Sec. 7.1
 Mar 28 | Convolutions for Images <br/> [notebook]() <br/> Padding and Stride <br/> [notebook]() <br/> Multiple Input and Multiple Output Channels <br/> [notebook]() | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
-Apr 02 <br/> V | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook]() | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
+Apr 02 | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook]() | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | |  
 Apr 09 | |   
