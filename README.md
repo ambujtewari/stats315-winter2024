@@ -60,9 +60,6 @@ D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola
 
 _Note_: A "V" in the date column denotes a virtual lecture.
 
-
-**Schedule below is UNDER CONSTRUCTION and subject to change**
-
 Date   | Topic | Reading Assignment 
 ---    | ---   | ---               
 Jan 11 | Course logistics <br/> Introduction <br/> [slides](https://docs.google.com/presentation/d/1tK0h6NOYlwY_C6noNuVMLXSJFlYBy78z/edit?usp=sharing) | DLPy What is deep learning?, Chap. 1 <br/> DL Introduction, Chap. 1 <br/> D2L Introduction, Chap. 1
