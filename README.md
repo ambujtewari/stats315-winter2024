@@ -86,12 +86,12 @@ Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebo
 Mar 19 | Generalization <br/> Evaluating ML models <br/> [notebook]() | DLPy, Sec. 5.1-2
 Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook]() | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
-Mar 26 |  From Fully-Connected Layers to Convolutions <br/> [notebook]() | D2L, Sec. 7.1
+Mar 26 | From Fully-Connected Layers to Convolutions <br/> [notebook]() | D2L, Sec. 7.1
 Mar 28 | Convolutions for Images <br/> [notebook]() <br/> Padding and Stride <br/> [notebook]() <br/> Multiple Input and Multiple Output Channels <br/> [notebook]() | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
 Apr 02 | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook]() | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | |  
-Apr 09 | |   
+Apr 09 | Guest Lecture by Michelle Krell Kydd <br/> [TEDx talk](https://youtu.be/PnWfdT0uBM4?si=ivxezKz4d_8RRoZR) <br/> [Blog](https://glasspetalsmoke.blogspot.com/) |   
 Apr 11 | Guest Lecture by UM alum Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
 Apr 16 | |  
 Apr 18 | |  
