@@ -79,7 +79,7 @@ Feb 22 | STUDY DAY |
 Feb 27 | SPRING BREAK |
 Feb 29 | SPRING BREAK |  
 Mar 05 | MIDTERM EXAM |  
-Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook]() | DLPy, Sec. 2.1
+Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1JMsJMuENWLcz_ErLavJvfbca1ccGFOmL?usp=sharing) | DLPy, Sec. 2.1
 Mar 12 | Getting started with NNs: Classification IMDB <br/> [notebook]() | DLPy, Sec. 4.1
 Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook]() | DLPy, Sec. 4.3
 Mar 19 | Generalization <br/> Evaluating ML models <br/> [notebook]() | DLPy, Sec. 5.1-2
