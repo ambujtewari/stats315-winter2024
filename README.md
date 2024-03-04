@@ -6,7 +6,7 @@ This is an introductory deep learning course using the Python programming langua
   - _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola. An advanced text from research scientists at Amazon. It weaves together math, figures, and code in an interactive online resource available [here](https://d2l.ai/). Code examples are provided in three frameworks: MXNet, PyTorch and TensorFlow. 
   - _Deep Learning with Python (2nd edition)_ by Chollet. A solid hands-on guide oriented towards programmers from the creator of the Keras deep learning library. Ebook and print versions are available from [Manning Publications](https://www.manning.com/books/deep-learning-with-python-second-edition)  
   - _Deep Learning_ by Goodfellow, Bengio and Courville. Written by three top deep learning researchers, this comprehensive book is required reading if you want to pursue your study of deep learning at a more advanced level. Print version is available from [MIT Press](https://mitpress.mit.edu/books/deep-learning) and an online version is [here](https://www.deeplearningbook.org/).
-  - _Understanding Deep Learning_ by Simon J.D. Prince. It promises to be a more up-to-date version of _Deep Learning_ by Goodfellow et al. and its spiritual successor. I might refer to it from time to time. Print version is available from [MIT Press](https://mitpress.mit.edu/9780262048644/understanding-deep-learning/) and an online version is [here](https://udlbook.github.io/udlbook/).
+  - _Understanding Deep Learning_ by Simon J.D. Prince. It promises to be a more up-to-date version of _Deep Learning_ by Goodfellow et al. and its spiritual successor. Print version is available from [MIT Press](https://mitpress.mit.edu/9780262048644/understanding-deep-learning/) and an online version is [here](https://udlbook.github.io/udlbook/).
   
 - **Undergraduate Courses on Deep Learning**: Many universities now offer an introductory deep learning course, e.g., [Berkeley](https://inst.eecs.berkeley.edu/~cs182), [CMU](https://deeplearning.cs.cmu.edu/), [MIT](http://introtodeeplearning.com/), [Stanford](https://cs230.stanford.edu/)
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/657959) for this course frequently. It will let you access important announcements and track course deliverables. (requires UM login)
@@ -57,6 +57,7 @@ Students may experience stressors that can impact both their academic experience
 DLPy = _Deep Learning with Python (2nd edition)_ by Chollet    
 DL = _Deep Learning_ by Goodfellow, Bengio and Courville    
 D2L = _Dive into Deep Learning_ by Zhang, Lipton, Li and Smola    
+UDL = _Understanding Deep Learning_ by Prince
 
 _Note_: A "V" in the date column denotes a virtual lecture.
 
@@ -91,8 +92,8 @@ Mar 28 | Convolutions for Images <br/> [notebook]() <br/> Padding and Stride <br
 Apr 02 | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook]() | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | Guest Lecture by Michelle Krell Kydd, trained "nose" in flavors and fragrances <br/> [TEDx talk](https://youtu.be/PnWfdT0uBM4?si=ivxezKz4d_8RRoZR) <br/> [Blog](https://glasspetalsmoke.blogspot.com/) |  
-Apr 09 | Introduction to the Attention Mechanism |  D2L, Sec. 11.1-3 
+Apr 09 | Introduction to the Attention Mechanism |  D2L, Sec. 11.1-3 <br/> UDL, Sec. 12.1-12.2
 Apr 11 | Guest Lecture by UM alum Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
-Apr 16 | Multi-Head Attention <br/> Self-Attention and Positional Encoding | D2L, Sec. 11.5-6 
-Apr 18 | The Transformer Architecture | D2L, Sec. 11.7 
+Apr 16 | Multi-Head Attention <br/> Self-Attention and Positional Encoding | D2L, Sec. 11.5-6 <br/> UDL, Sec. 12.3
+Apr 18 | The Transformer Architecture | D2L, Sec. 11.7 <br/> UDL, Sec. 12.4
 Apr 23 | FINAL EXAM |  
