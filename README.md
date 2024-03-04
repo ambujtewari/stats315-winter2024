@@ -31,7 +31,7 @@ This is an introductory deep learning course using the Python programming langua
 **Name**: Abhiti Mishra (Lab 004 Thu 4:00-5:30 in 1084 EH)  
 **Email**: [abhiti@umich.edu](mailto:abhiti@umich.edu)
 
-**Lab webpage** (also has GSO office hours info): [link](https://docs.google.com/document/d/1hFF-2ulqIBcvFur12F52eCDM-UJGyHgvVszrUTLJL-s/edit?usp=sharing)
+**Lab webpage** (also has GSI office hours info): [link](https://docs.google.com/document/d/1hFF-2ulqIBcvFur12F52eCDM-UJGyHgvVszrUTLJL-s/edit?usp=sharing)
 
 ## Grading
 
