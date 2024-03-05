@@ -93,7 +93,7 @@ Apr 02 | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Ke
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | Guest Lecture by Michelle Krell Kydd, trained "nose" in flavors and fragrances <br/> [TEDx talk](https://youtu.be/PnWfdT0uBM4?si=ivxezKz4d_8RRoZR) <br/> [Blog](https://glasspetalsmoke.blogspot.com/) |  
 Apr 09 | Introduction to the Attention Mechanism |  D2L, Sec. 11.1-3 <br/> UDL, Sec. 12.1-12.2
-Apr 11 | Guest Lecture by UM alum Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
-Apr 16 | Multi-Head Attention <br/> Self-Attention and Positional Encoding | D2L, Sec. 11.5-6 <br/> UDL, Sec. 12.3
+Apr 11 | Multi-Head Attention <br/> Self-Attention and Positional Encoding | D2L, Sec. 11.5-6 <br/> UDL, Sec. 12.3  
+Apr 16 | Guest Lecture by UM alum Alex Wiltschko, Founder and CEO of [osmo.ai](https://www.osmo.ai/) |  
 Apr 18 | The Transformer Architecture | D2L, Sec. 11.7 <br/> UDL, Sec. 12.4
 Apr 23 | FINAL EXAM |  
