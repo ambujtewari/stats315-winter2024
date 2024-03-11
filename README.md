@@ -84,8 +84,8 @@ Mar 05 | MIDTERM EXAM |
 Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1JMsJMuENWLcz_ErLavJvfbca1ccGFOmL?usp=sharing) | DLPy, Sec. 2.1
 Mar 12 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1z-2T7UpS8bEe3jRUKkhs72rrf4JIwDr2?usp=sharing) | DLPy, Sec. 4.1
 Mar 14 | Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1lxAoBBfJcFFt4GAW56kIWqklXfesVXEd?usp=sharing) | DLPy, Sec. 4.3
-Mar 19 | Generalization <br/> Evaluating ML models <br/> [notebook]() | DLPy, Sec. 5.1-2
-Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook]() | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
+Mar 19 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1WeWuusSyPo9-Mxf5Gi5VpDs5oKcunSxS/view?usp=sharing) | DLPy, Sec. 5.1-2
+Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1zgiSrmoTxT78-OJIXId8FqRS0IqRoGBa?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
 Mar 26 | From Fully-Connected Layers to Convolutions <br/> [notebook]() | D2L, Sec. 7.1
 Mar 28 | Convolutions for Images <br/> [notebook]() <br/> Padding and Stride <br/> [notebook]() <br/> Multiple Input and Multiple Output Channels <br/> [notebook]() | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
