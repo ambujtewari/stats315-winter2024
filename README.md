@@ -81,10 +81,11 @@ Feb 22 | STUDY DAY |
 Feb 27 | SPRING BREAK |
 Feb 29 | SPRING BREAK |  
 Mar 05 | MIDTERM EXAM |  
+&nbsp; | **Fully Connected aka Dense Neural Networks** |
 Mar 07 | Getting started with NNs: Classification MNIST <br/> [notebook](https://colab.research.google.com/drive/1JMsJMuENWLcz_ErLavJvfbca1ccGFOmL?usp=sharing) | DLPy, Sec. 2.1
 Mar 12 | Getting started with NNs: Classification IMDB <br/> [notebook](https://colab.research.google.com/drive/1z-2T7UpS8bEe3jRUKkhs72rrf4JIwDr2?usp=sharing) <br/> Getting started with NNs: Regression Boston Housing Price <br/> [notebook](https://colab.research.google.com/drive/1lxAoBBfJcFFt4GAW56kIWqklXfesVXEd?usp=sharing) | DLPy, Sec. 4.1 <br/> DLPy, Sec. 4.3    
 Mar 14 | Generalization <br/> Evaluating ML models <br/> [notebook](https://colab.research.google.com/drive/1WeWuusSyPo9-Mxf5Gi5VpDs5oKcunSxS?usp=sharing) | DLPy, Sec. 5.1-2    
-Mar 19 | |    
+Mar 19 | NO CLASS (MIDAS Symposium) |    
 Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1zgiSrmoTxT78-OJIXId8FqRS0IqRoGBa?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
 Mar 26 | From Fully-Connected Layers to Convolutions <br/> [notebook]() | D2L, Sec. 7.1
