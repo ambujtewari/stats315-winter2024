@@ -89,8 +89,8 @@ Mar 19 | NO CLASS ([MIDAS Symposium](https://midas.umich.edu/ai-se-annual-sympos
 Mar 21 | Improving model fit <br/> Regularizing your model <br/> [notebook](https://colab.research.google.com/drive/1zgiSrmoTxT78-OJIXId8FqRS0IqRoGBa?usp=sharing) | DLPy, Sec. 5.3 <br/> DLPy, Sec. 5.4.4
 &nbsp; | **Convolutional Neural Networks** |
 Mar 26 | From Fully-Connected Layers to Convolutions <br/> [notebook](https://colab.research.google.com/drive/1q4ghoaUdY_-Tnfx0SogVq9hV5-umxzXL?usp=sharing) | D2L, Sec. 7.1
-Mar 28 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1PJ2-JCiQV7DBJTQVB60rrIboKqd7HZ8_?usp=sharing) <br/> Padding and Stride <br/> [notebook]() <br/> Multiple Input and Multiple Output Channels <br/> [notebook]() | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
-Apr 02 | Pooling <br/> [notebook]() <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook]() | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
+Mar 28 | Convolutions for Images <br/> [notebook](https://colab.research.google.com/drive/1PJ2-JCiQV7DBJTQVB60rrIboKqd7HZ8_?usp=sharing) <br/> Padding and Stride <br/> [notebook](https://colab.research.google.com/drive/1j7aQ7kYJvEhSOdpT4r0l6Qc-EOySNPIp?usp=sharing) <br/> Multiple Input and Multiple Output Channels <br/> [notebook](https://colab.research.google.com/drive/1Nk8B62a4TCJcdCIWnKJjtPfpvaUYuGYz?usp=sharing) | D2L, Sec. 7.2 <br/> D2L, Sec. 7.3-4
+Apr 02 | Pooling <br/> [notebook](https://colab.research.google.com/drive/1rFSrXGoNz0b2AhVYiyW6evJVsqhaQiTr?usp=sharing) <br/> LeNet <br/> Different ways to build Keras models <br/> [notebook](https://colab.research.google.com/drive/19Dj2Il8WhWGs_wMgYMKzIXXsjMr_4QW7?usp=sharing) | D2L, Sec. 7.5-6 <br/> DLPy, Sec. 7.2
 &nbsp; | **Attention & Transformers / Machine Olfaction** |
 Apr 04 | Guest Lecture by Michelle Krell Kydd, trained "nose" in flavors and fragrances <br/> [TEDx talk](https://youtu.be/PnWfdT0uBM4?si=ivxezKz4d_8RRoZR) <br/> [Blog](https://glasspetalsmoke.blogspot.com/) |  
 Apr 09 | Introduction to the Attention Mechanism |  D2L, Sec. 11.1-3 <br/> UDL, Sec. 12.1-12.2
